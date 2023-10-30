@@ -52,59 +52,54 @@ sidebar:
           link:
 
 career-profile:
-    title: 
+    title: Career Profile
     summary: |
-      Computer Engineering student intending on graduating with a Bachelor of Science - BS in Computer Engineering from the University of Massachusetts Lowell
-      Worked with languages C++, C, and VHDL. Currently working on learning bash within Fedora with RedHat. Coach and Athlete within the sport of Powerlifting. 
-      Currently the treasurer for the UMass Lowell Powerlifting team. 
+      A student intending on graduating with a Bachelor of Science - BS in Computer Engineering from the University of Massachusetts Lowell
+      Worked with languages C++, C, and VHDL. Currently working on learning bash within Fedora with RedHat. Interning at Diagnosys, testing and assembling 
+      electrophysiology devices. Coach and Athlete within the sport of Powerlifting. Currently the treasurer for the UMass Lowell Powerlifting team. 
 education:
     title: Education
     info:
       - degree: Bachelor in Computer Engineering
         university: University of Massachusetts Lowell
-        time: 2020 - Present
+        time: 2020 - 2024
         details:
         
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Computer Engineer Intern/Assembly
+        time: December 2023 - Present
+        company: Diagnosys LLC, Lowell, MA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Worked on/tested electrophysiology devices 
+          - Assembled and tested 100+ ColorDome LED Boards, a product that allowed light 
+          stimulus to the eyeball. 
+          - Assembled 50+ actuator carts to withhold the large medical devices.
+          - Accurately inspected 1000+ 3D Printed parts.
+          - Shipped and packaged 5000+lbs worth of medical devices around the world.
+          - Inspected 3D Parts that allowed NASA to perform 1st electrophysiology test in space.
+          
+      - role: Sales Lead/Key Holder
+        time: May 2022 - December 2023
+        company: The Vitamin Shoppe, Nashua, NH
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Keep track of money,opening and closing registers, accurately count deposits.
+          - Create and maintain relationships with 99+ regular customers.
+          
+      - role: Sales Associate
+        time: August 2021 - April 2022
+        company: GNC, Lowell, MA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Educate thousands of customers and consumers on health, nutrition and fitness.
+          - Keep knowledge of current promotions or future promotions.
+          
+      - role: Associate
+        time: May 2020 - July 2021
+        company: Impact Cleaning, Dracut, MA
+        details: |
+          - Efficiently cleaned thousands bathrooms, floors, and office space which included
+          mopping, vacuuming, and sweeping.
 
 certifications:
       title: Certifications
