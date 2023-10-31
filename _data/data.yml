@@ -104,7 +104,6 @@ experiences:
           - Efficiently cleaned thousands bathrooms, floors, and office space which included
           mopping, vacuuming, and sweeping.
 
-
 projects:
     title: Projects
     intro: >
@@ -125,6 +124,7 @@ projects:
      - title: Dissassembled and Reassembled 1990 Mazda MX-5 Motor
        link:
        tagline: "Due to reliability issues, took out motor out of car, rebuilt the motor using new parts, reassembled and installed motor and transmission back in the car"
+
 skills:
     title: Skills &amp; Proficiency
 
