@@ -66,7 +66,7 @@ education:
       - degree: Bachelor in Computer Engineering
         university: University of Massachusetts Lowell
         time: 2020 - 2024
-        details:
+        details: GPA: 2.83
         
 experiences:
     title: Experience
@@ -118,38 +118,24 @@ projects:
         link: 
         tagline: "A traffic light that will use the buzzer during the last 3 seconds of each light, will start the traffic light when a button is pressed."
 
-      - title: Tempo
+      - title: Assembling and Soldering Keyboards
         link: 
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Built multiple keyboards that required to solder switches onto a PCB"
 
-      - title: Atom
-        link: 
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: 
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+     - title: Dissassembled and Reassembled 1990 Mazda MX-5 Motor
+       link:
+       tagline: "Due to reliability issues, took out motor out of car, rebuilt the motor using new parts, reassembled and installed motor and transmission back in the car"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C / C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: VHDL
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Bash
         level: 60%
 
 footer: >
