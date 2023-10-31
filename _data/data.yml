@@ -111,7 +111,7 @@ projects:
     assignments:
       - title: Friendly Fedora Capstone Project with RedHat 
         link: 
-        tagline: "Capstone Project, working on Friendly Fedora between Fall 2023 to Spring 2024. Goal is to allow UMass lowell students to have ease of accessibility to the Fedora operating system"
+        tagline: "Capstone Project, working on Friendly Fedora between Fall 2023 to Spring 2024. Goal is to allow UMass Lowell students to have ease of accessibility to the Fedora operating system"
 
       - title: Arduino Traffic Light with Buzzer
         link: 
@@ -119,11 +119,11 @@ projects:
 
       - title: Assembling and Soldering Keyboards
         link: 
-        tagline: "Built multiple keyboards that required to solder switches onto a PCB"
+        tagline: "Built multiple keyboards that required soldering switches onto a PCB"
 
-     - title: Dissassembled and Reassembled 1990 Mazda MX-5 Motor
-       link:
-       tagline: "Due to reliability issues, took out motor out of car, rebuilt the motor using new parts, reassembled and installed motor and transmission back in the car"
+      - title: Disassembled and Reassembled 1990 Mazda MX-5 Motor
+        link:
+        tagline: "Due to reliability issues, took out the motor from the car, rebuilt the motor using new parts, reassembled, and installed the motor and transmission back in the car"
 
 skills:
     title: Skills &amp; Proficiency
